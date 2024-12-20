@@ -24,7 +24,7 @@ const FeaturesSection = () => {
 
         <div className='rounded-2xl bg-white border over overflow-hidden	'>
           <Image
-            src={"/images/feature-1.png"}
+            src={"/images/feature-2.png"}
             alt={"section"}
             width={512}
             height={512}
@@ -42,7 +42,7 @@ const FeaturesSection = () => {
 
         <div className='rounded-2xl bg-white border over overflow-hidden	'>
           <Image
-            src={"/images/feature-1.png"}
+            src={"/images/feature-3.png"}
             alt={"section"}
             width={512}
             height={512}

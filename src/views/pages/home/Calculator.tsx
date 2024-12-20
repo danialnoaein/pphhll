@@ -1,8 +1,8 @@
 const Calculator = () => {
   return (
-    <>
-      <div>محاسبه گر اقساط</div>
-    </>
+    <div className='my-8'>
+      <div className='text-center'>محاسبه گر اقساط</div>
+    </div>
   );
 };
 

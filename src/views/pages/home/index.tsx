@@ -34,8 +34,14 @@ const Home = () => {
 
       <Calculator />
 
-      <IntroSection reverseOrder={false} />
-      <IntroSection reverseOrder={true} />
+      <IntroSection
+        reverseOrder={false}
+        image={"/images/section-1.png"}
+      />
+      <IntroSection
+        reverseOrder={true}
+        image={"/images/section-2.png"}
+      />
 
       <MoveToTopInFooter />
       <Footer />
